@@ -3,9 +3,9 @@ body {
   background-color: #F5F0E6;
   font-family: Georgia, serif;
 }
-.subtitle { color: red; }
-#page-title { font-size: 48px; color: rgb(0, 0, 0); }
+.subtitle { font-size: 30px; color: red; }
+#page-title { font-size: 24px; color: rgb(0, 0, 0); }
 #my-name {
   color: rgb(255, 0, 0);
-  font-size: 40px;
+  font-size: 20px;
 }
