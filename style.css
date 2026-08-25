@@ -4,8 +4,8 @@ body {
   font-family: Georgia, serif;
 }
 .subtitle { color: red; }
-#page-title { font-size: 48px; color: navy; }
+#page-title { font-size: 48px; color: rgb(0, 0, 0); }
 #my-name {
-  color: navy;
+  color: rgb(255, 0, 0);
   font-size: 40px;
 }
