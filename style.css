@@ -9,3 +9,10 @@ body {
   color: rgb(255, 0, 0);
   font-size: 20px;
 }
+.subtitle {
+  color: red;
+  border: 2px solid black;
+  padding: 20px;
+  margin: 40px;
+  width: 300px
+}
