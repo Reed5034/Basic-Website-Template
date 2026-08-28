@@ -17,3 +17,6 @@ body {
   margin: auto;
   width: 300px
 }
+body {
+  font-family: Verdana, 'Courier New', Courier, monospace;
+}
